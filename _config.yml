@@ -39,6 +39,9 @@ collections:
   authors:
     output: true
 
+#permalinks
+permalink: /blog/:year/:month/:day/:title
+
 #defaults
 defaults:
   - scope:
