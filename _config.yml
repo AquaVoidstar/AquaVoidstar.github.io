@@ -36,6 +36,7 @@ plugins:
 
 #collections
 collections:
+  [sections]
   authors:
     output: true
 
