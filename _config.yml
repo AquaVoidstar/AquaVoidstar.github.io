@@ -30,13 +30,14 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-prologue
+#minima
 plugins:
   - jekyll-feed
 
 #collections
 collections:
-  # [sections]
+  [sections]
   authors:
     output: true
 
