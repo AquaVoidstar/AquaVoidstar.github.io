@@ -30,7 +30,22 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-prologue
+theme: texture
+texture:
+  title: Mason Stoecker
+  tagline: Trained Idiot
+  date_format: "%b %-d, %Y"
+  style: [blue]
+  disqus_shortname: games
+  analytics_id: '< YOUR ID >'
+  show_excerpts: true
+
+
+
+  # social_links:
+  #   twitter: thelehhman
+  #   github:  thelehhman
+  #   linkedIn: in/thelehhman # format: locale/username
 #minima
 plugins:
   - jekyll-feed
