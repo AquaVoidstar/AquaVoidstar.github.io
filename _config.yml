@@ -32,17 +32,17 @@ remote_theme: thelehhman/texture
 sass:
   sass_dir:_sass
 
-texture:
-  title: Mason Stoecker
-  tagline: Trained Idiot
-  date_format: "%b %-d, %Y"
-  style: [blue]
-  disqus_shortname: games
-  analytics_id: '< YOUR ID >'
-  show_excerpts: true
+# texture:
+#   title: Mason Stoecker
+#   tagline: Trained Idiot
+#   date_format: "%b %-d, %Y"
+#   style: [blue]
+#   disqus_shortname: games
+#   analytics_id: '< YOUR ID >'
+#   show_excerpts: true
 
 # Build settings
-theme: texture
+theme: minima
 
   # social_links:
   #   twitter: thelehhman
@@ -52,7 +52,7 @@ theme: texture
 
 #collections
 collections:
-  [sections]
+#   [sections]
   authors:
     output: true
 
