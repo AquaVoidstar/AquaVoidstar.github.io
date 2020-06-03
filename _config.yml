@@ -6,18 +6,18 @@ url: "https://masonstoecker.com"
 title: Ambling Blog                                  # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/icon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Work in progress  #Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/background.png
+header_feature_image: assets/img/background.png
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> 
+  Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
-color_image: /assets/img/background.png                    # A bit transparent for color posts.
+color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
 katex: true                                             # Enable if using math markup

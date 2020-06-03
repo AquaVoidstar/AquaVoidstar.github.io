@@ -1,0 +1,16 @@
+MStoecker: # author-id
+  name: "Mason Stoecker"
+  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
+  url: "https://github.com/AquaVoidstar"
+unknown:
+  name: Unknown
+  avatar:
+  url:
+
+
+gedit is the official text editor of the GNOME desktop environment. Generally, in a server, there is no desktop environment installed or needed. Therefore, gedit can't start and display.
+
+I suggest that you instead use nano.
+
+sudo nano /etc/network/interfaces 
+
