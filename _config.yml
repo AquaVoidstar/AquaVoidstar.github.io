@@ -9,7 +9,7 @@ avatar: assets/img/triangle.png                         # Empty for no avatar in
 favicon: assets/icon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Work in progress  #Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Bienvenue  #Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
 header_feature_image: assets/img/background.png
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a>
