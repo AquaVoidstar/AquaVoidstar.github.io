@@ -6,10 +6,11 @@ author: MStoecker
 image: "assets/img/thumbnails/PredNail.png"
 thumbnail: "assets/img/thumbnails/PredNail.png"
 feature-img: "assets/img/thumbnails/PredNail.png"
+excerpt_separator: <!--more-->
 ---
 <!-- ![Error Text](https://media.giphy.com/media/j0kJBNkYGyBllgIU3t/giphy.gif){: .center-image} -->
 
-I recently completed a semester of studying stochastic predator prey systems and I wanted to take the time to explain the basics of what such a thing is. The aim is the provided an explanation that is not rigorous but more in layman's terms. So how do we go from:
+I recently completed a semester of studying stochastic predator prey systems and I wanted to take the time to explain the basics of what such a thing is. The aim is the provided an explanation that is not rigorous but more in layman's terms. So how do we go from:<!--more-->
 
 {:refdef: style="text-align: center;"}
 $$\begin{array}{c}
