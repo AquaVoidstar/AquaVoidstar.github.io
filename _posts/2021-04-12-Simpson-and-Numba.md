@@ -22,7 +22,7 @@ This was assigned to me as a problem to solve and I thought I did a decent enoug
 I think it's a good idea to review the method in general and how we modify it for the nonuniform case. So for the basic approximation we have:
 
 {:refdef: style="text-align: center;"}
-$$\int_{a}^{b} f(x) dx \approx \frac {h}{3}(f(a)-4f(\frac{a+b}{2}+ f(b)))$$
+$$\int_{a}^{b} f(x) dx \approx \frac {h}{3}(f(a)-4f(\frac{a+b}{2})+ f(b))$$
 {: refdef}
 
 

@@ -13,7 +13,7 @@ thinking and computer science skills especially computational physics which has 
 of my undergraduate research. I hope to be able to talk about a wide variety of subjects but most of my posts will be somewhat technical in nature.
 
 I am still fairly new to this whole blogging venture and it is partially motivated by 
-the 2020 Caronavirus outbreak that forced countries to issue Stay-At-Home orders. 
+the 2019-??? Caronavirus outbreak that forced countries to issue Stay-At-Home orders. 
 This took me out of my normal school environment and simultaneously gave me a lot of 
 free time and not much else outside of my normal academic obligations.
 ### Below is a link to my resume. I will try and update it routinely:
