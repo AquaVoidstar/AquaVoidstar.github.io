@@ -238,7 +238,7 @@ for i, Year in enumerate(VAvotes["ElectionYear"].unique()):
         temp.append(n)
 VAvotes["VoteRatio"] = temp
 ```
-You may have to clean the population data a bit as the date formatting is a little different than the most votes of all time. We also add an additional column for this information. As expected, applying population growth to this data produces a seesaw correction where politicians on the left side receive a little bit of a boost while on teh right, there is a bit of a reduction.
+You may have to clean the population data a bit as the date formatting is a little different than the most votes of all time. We also add an additional column for this information. As expected, applying population growth to this data produces a seesaw correction where politicians on the left side receive a little bit of a boost while on the right, there is a bit of a reduction.
 
 ![image tooltip here](/assets/img/graphs/2021-05-04VARatio.png)
 
