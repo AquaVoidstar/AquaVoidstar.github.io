@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 * TOC
 {: toc}
 
-So recently I found my way over to the Virginia Department of Elections to check my registration status. I have never dwelled too long in the website before, but I found myself inquisative that day. It's a very nice website and props to the designers for it's concise nature. The site also contains information and results of Virginia Elections going back to at least 2005 including an interestingly named file called "All-time Top Vote Getter". <!--more--> The link to this file is here: <a href='https://www.elections.virginia.gov/resultsreports/'>Virginia All-time Top Vote Getter</a>.  
+So recently I found my way over to the Virginia Department of Elections to check my registration status. I have never dwelled too long in the website before, but I found myself inquisitive that day. It's a very nice website and props to the designers for it's concise nature. The site contains information and results of Virginia Elections going back to at least 2005 including an interestingly named file called "All-time Top Vote Getter". <!--more--> The link to this file is here: <a href='https://www.elections.virginia.gov/resultsreports/'>Virginia All-time Top Vote Getter</a>.  
 
 ```python
 VAvotes.head()
@@ -191,7 +191,7 @@ VAvotes.head()
 
 
 
- We can see in the bellow graph that most of these politicians achieve a lot of votes every 4 years- when presidential elections occur. An example of this phenomenon can be very clearly seen by comparing the votes that Mark R. Warner achieved in 2008 and 2020 to his performance in 2014. It's not news that presidential elections are more competitive than elections over the house or even some senate seats but the number of votes is almost half of what was achieved during a presidential election. I only highlighted the politicians that did the best in a respective year as I found including more names made the graph nearly incomprehensible. 
+ We can see in the below graph that most of these politicians achieve a lot of votes every 4 years- when presidential elections occur. An example of this phenomenon can be very clearly seen by comparing the votes that Mark R. Warner achieved in 2008 and 2020 to his performance in 2014. It's not news that presidential elections are more competitive than elections over the House or even some Senate seats but the number of votes is almost half of what was achieved during a presidential election. I only highlighted the politicians that did the best in a respective year as I found including more names made the graph nearly incomprehensible. 
 
 ![image tooltip here](/assets/img/graphs/2021-05-04VAVotes.png)
 
