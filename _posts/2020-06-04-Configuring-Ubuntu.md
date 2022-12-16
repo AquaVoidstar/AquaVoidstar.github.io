@@ -40,7 +40,7 @@ I had this problem also with Ubuntu LTS 18, when you get to the basic installati
 This link [HERE](https://askubuntu.com/questions/771899/pcie-bus-error-severity-corrected)
 provides the solution that worked for me but the details are basically:
 
-1. Shutdown you coputer.
+1. Shutdown you computer.
 2. While power on, hold shift to enter recovery mode
 3. Here press e to edit the boot up process.
 4. Go to the line that starts with linux and enter pci=nomsi OR pci=noaer to the end of the line
